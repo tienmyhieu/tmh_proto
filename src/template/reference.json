@@ -1,0 +1,10 @@
+{
+  "components": [],
+  "html": [],
+  "locales": ["references"],
+  "resources": {
+    "page_title_key": "reference",
+    "page_sub_title_key": "",
+    "head_title_key": "reference"
+  }
+}

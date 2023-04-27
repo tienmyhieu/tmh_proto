@@ -1,0 +1,9 @@
+{
+  "components": [
+    { "html": "alternate_routes", "order": "1", "target": "header" },
+    { "html": "navigation", "order": "2", "target": "header" },
+    { "html": "page_title", "order": "3", "target": "body" }
+  ],
+  "html": ["common", "elements", "system"],
+  "locales": ["common", "creative_commons", "head"]
+}

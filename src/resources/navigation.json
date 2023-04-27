@@ -1,0 +1,8 @@
+[
+  { "uuid": "t89vsx9z", "title": "locales.tien_my_hieu", "ancestor": "", "route": "", "innerHtml": "locales.tien_my_hieu" },
+  { "uuid": "ivv55x2m", "title": "locales.thieu_tri", "ancestor": "t89vsx9z", "route": "routes.2yqewlhz", "innerHtml": "locales.thieu_tri" },
+  { "uuid": "ciz0scjf", "title": "locales.tt_lpkttsdt", "ancestor": "ivv55x2m", "route": "routes.0qqgudfb", "innerHtml": "locales.lpkttsdt" },
+
+  { "uuid": "mxuasmif", "title": "locales.references", "ancestor": "t89vsx9z", "route": "routes.k3i7zzq0", "innerHtml": "locales.references" },
+  { "uuid": "u7w1mjxc", "title": "locales.title_HCCV", "ancestor": "mxuasmif", "route": "routes.d5yvbpay", "innerHtml": "locales.title_HCCV" }
+]

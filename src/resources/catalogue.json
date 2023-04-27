@@ -1,0 +1,23 @@
+{
+  "catalogues": [
+    { "uuid": "1fwjkgi2", "title": "locales.minh_menh", "emperor_coins": [
+      { "uuid": "dcvn5la0", "id": "", "innerHtml": "innerHtml.tjrdtqlf" }
+    ] },
+    { "uuid": "2yqewlhz", "title": "locales.thieu_tri", "emperor_coins": [
+      { "uuid": "ei56v7oa", "id": "", "innerHtml": "innerHtml.9b42s5nf" }
+    ] },
+    { "uuid": "3n3shibu", "title": "locales.tu_duc", "emperor_coins": [
+      { "uuid": "x5jeg82o", "id": "", "innerHtml": "innerHtml.9b42s5nf" }
+    ] }
+  ],
+  "innerHtml": [
+    { "uuid": "tjrdtqlf", "separator": "", "innerHtml": ["locales.hhttllll"] },
+    { "uuid": "9b42s5nf", "separator": "", "innerHtml": ["locales.hhttllll"] }
+  ],
+  "links": [
+    { "uuid": "dcvn5la0", "anchor": "", "href": "routes.dcvn5la0", "id": "mm_hhttllll", "innerHtml": "innerHtml.tjrdtqlf", "lang": ".", "target": "_self", "title": "locales.mm_hhttllll" },
+    { "uuid": "ei56v7oa", "anchor": "", "href": "routes.ei56v7oa", "id": "tt_hhttllll", "innerHtml": "innerHtml.9b42s5nf", "lang": ".", "target": "_self", "title": "locales.tt_hhttllll" },
+    { "uuid": "x5jeg82o", "anchor": "", "href": "routes.x5jeg82o", "id": "td_hhttllll", "innerHtml": "innerHtml.9b42s5nf", "lang": ".", "target": "_self", "title": "locales.td_hhttllll" }
+  ]
+}
+

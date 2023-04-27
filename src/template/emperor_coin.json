@@ -1,0 +1,15 @@
+{
+  "components": [
+    { "html": "page_sub_title", "order": "4", "target": "body" },
+    { "html": "specimen_image_groups", "order": "5", "target": "body" },
+    { "html": "references", "order": "6", "target": "body" },
+    { "html": "creative_commons", "order": "99", "target": "body" }
+  ],
+  "html": ["specimen"],
+  "locales": ["acronyms", "references"],
+  "resources": {
+    "page_title_key": "emperor",
+    "page_sub_title_key": "coin",
+    "head_title_key": "emperor_coin"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "innerHtml": [
+    { "uuid": "j24a189z", "separator": "", "innerHtml": ["inscriptions.cktmlqxd"] },
+    { "uuid": "n8iwwa5u", "separator": "", "innerHtml": ["inscriptions.9nuc5ola"] },
+    { "uuid": "vl4smfpx", "separator": " ", "innerHtml": ["51.82", "locales.mm"] },
+    { "uuid": "ogn72efd", "separator": " ", "innerHtml": ["34.41", "locales.g"] },
+    { "uuid": "njedc9lp", "separator": " ", "innerHtml": ["locales.acronym_HUAYICANG", "18-0301-3-96"] },
+    { "uuid": "rh0f5ez4", "separator": " ", "innerHtml": ["locales.acronym_ANMHDQYJ", "8-紹-30"] },
+    { "uuid": "dpxenref", "separator": " ", "innerHtml": ["locales.acronym_ILOT_TT", "5.1"] }
+  ],
+  "links": [
+    { "uuid": "5v4axfrb", "anchor": "169", "href": "routes.d5yvbpay", "id": "169", "innerHtml": "innerHtml.zxduky5k", "lang": "en", "target": "_self", "title": "locales.title_HCCV" },
+    { "uuid": "a4yvd8yi", "anchor": "096", "href": "routes.ndnp335t", "id": "096", "innerHtml": "innerHtml.njedc9lp", "lang": "zh", "target": "_self", "title": "locales.title_HUAYICANG_2018_03_01" },
+    { "uuid": "jjkkik2g", "anchor": "8-紹-30", "href": "routes.1z25zkjb", "id": "8-紹-30", "innerHtml": "innerHtml.rh0f5ez4", "lang": "ja", "target": "_self", "title": "locales.title_ANMHDQYJ" },
+    { "uuid": "qn2p5kdy", "anchor": "绍治-05.1", "href": "routes.h3f4lvs1", "id": "05.1", "innerHtml": "innerHtml.dpxenref", "lang": "zh", "target": "_self", "title": "locales.title_ILOT" },
+    { "uuid": "ikw3vl95", "anchor": "169", "href": "routes.d5yvbpay", "id": "HCCV", "innerHtml": "locales.title_HCCV", "lang": "en", "target": "_self", "title": "locales.title_HCCV" }
+  ],
+  "specimen_metadata": [
+    { "uuid": "bonlf4cb", "component": "metadata", "label": "locales.obverse", "lang": "zh", "metadata": "innerHtml.j24a189z" },
+    { "uuid": "dyylvzbk", "component": "metadata", "label": "locales.reverse", "lang": "zh", "metadata": "innerHtml.n8iwwa5u" },
+    { "uuid": "3jnn20li", "component": "metadata", "label": "locales.diameter", "lang": ".", "metadata": "innerHtml.vl4smfpx" },
+    { "uuid": "2ikiaw8e", "component": "metadata", "label": "locales.weight", "lang": ".", "metadata": "innerHtml.ogn72efd" },
+    { "uuid": "noq8o7ra", "component": "metadata", "label": "locales.identifier", "lang": "en", "metadata": "links.5v4axfrb" },
+    { "uuid": "ci9a8avb", "component": "metadata", "label": "locales.identifier", "lang": "zh", "metadata": "links.a4yvd8yi" },
+    { "uuid": "21j3e3wo", "component": "metadata", "label": "locales.identifier", "lang": "ja", "metadata": "links.jjkkik2g" },
+    { "uuid": "1zaljpp9", "component": "metadata", "label": "locales.identifier", "lang": "zh", "metadata": "links.qn2p5kdy" }
+  ]
+}

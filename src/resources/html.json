@@ -1,0 +1,16 @@
+{
+  "common": [
+    "image_group",
+    "metadata_ltr",
+    "metadata_rtl",
+    "reference",
+    "reference_metadata",
+    "references",
+    "specimen_images",
+    "specimen_title",
+    "uploaded_images"
+  ],
+  "elements": ["a", "body", "head", "html", "img", "spacer_image", "span"],
+  "specimen": ["page_sub_title", "specimen_metadata"],
+  "system": ["alternate_routes", "creative_commons", "navigation", "page_title"]
+}

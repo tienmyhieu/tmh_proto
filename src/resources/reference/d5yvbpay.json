@@ -1,0 +1,13 @@
+{
+  "emperor_coins": [
+    { "emperor": "1fwjkgi2", "emperor_coin": "dcvn5la0", "id": "140", "innerHtml": "links.dzeqkumf" }
+  ],
+  "innerHtml": [
+    { "uuid": "hi0zw584", "separator": ". ", "innerHtml": ["locales.title_HCCV"] },
+    { "uuid": "1kya3bqb", "separator": ", ", "innerHtml": ["locales.coin", "locales.vietnam", "locales.book"] },
+    { "uuid": "o34zgcnu", "separator": ". ", "innerHtml": ["140", "locales.hhttllll"] }
+  ],
+  "links": [
+    { "uuid": "dzeqkumf", "anchor": "", "href": "routes.n4r9rszp", "id": "140", "innerHtml": "innerHtml.o34zgcnu", "lang": ".", "target": "_self", "title": "locales.mm_hhttllll" }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "citations": [
+    { "uuid": "vmoqxm5m", "citation": "locales.citation_DNTLCB_TT", "page": "55", "plate": "", "title": "links.vmoqxm5m" },
+    { "uuid": "09730pfd", "citation": "locales.citation_TCTT", "page": "47", "plate": "", "title": "links.09730pfd" },
+    { "uuid": "oqepsplc", "citation": "locales.citation_TCVN", "page": "202", "plate": "", "title": "links.oqepsplc" },
+    { "uuid": "d5yvbpay", "citation": "locales.citation_HCCV", "page": "290", "plate": "", "title": "links.d5yvbpay" },
+    { "uuid": "qhzqqrj7", "citation": "locales.citation_DNTL6", "page": "839", "plate": "", "title": "links.qhzqqrj7" },
+    { "uuid": "rxq053y5", "citation": "locales.citation_TCVN2", "page": "125", "plate": "", "title": "links.rxq053y5" },
+    { "uuid": "gabpltxp", "citation": "locales.citation_ANZDQ", "page": "69", "plate": "", "title": "links.gabpltxp" },
+    { "uuid": "z9ga4u4o", "citation": "locales.citation_CMVC", "page": "387", "plate": "", "title": "links.z9ga4u4o" },
+    { "uuid": "1z25zkjb", "citation": "locales.citation_ANMHDQYJ", "page": "205", "plate": "", "title": "links.1z25zkjb" }
+  ],
+  "innerHtml": [
+    { "uuid": "ujtiibzz", "separator": " ", "innerHtml": ["locales.tt_lcc"] },
+    { "uuid": "umemjlej", "separator": ", ", "innerHtml": ["locales.coin", "locales.vietnam", "locales.thieu_tri"] },
+    { "uuid": "zxduky5k", "separator": " ", "innerHtml": ["locales.acronym_HCCV", "169"] },
+    { "uuid": "dsw3dzpt", "separator": " ", "innerHtml": ["locales.acronym_ANZDQ", "69.1"] },
+    { "uuid": "l24uoew2", "separator": " ", "innerHtml": ["locales.acronym_IKARU_TT", "3"] }
+  ],
+  "links": [
+    { "uuid": "vmoqxm5m", "anchor": "lpkttsdt", "href": "routes.vmoqxm5m", "id": "DNTLCB_TT", "innerHtml": "locales.title_DNTLCB_TT", "lang": "zh", "target": "_self", "title": "locales.title_DNTLCB_TT" },
+    { "uuid": "09730pfd", "anchor": "18", "href": "routes.09730pfd", "id": "TCTT", "innerHtml": "locales.title_TCTT", "lang": "vi", "target": "_self", "title": "locales.title_TCTT" },
+    { "uuid": "oqepsplc", "anchor": "258", "href": "routes.oqepsplc", "id": "TCVN", "innerHtml": "locales.title_TCVN", "lang": "vi", "target": "_self", "title": "locales.title_TCVN" },
+    { "uuid": "d5yvbpay", "anchor": "169", "href": "routes.d5yvbpay", "id": "HCCV", "innerHtml": "locales.title_HCCV", "lang": "en", "target": "_self", "title": "locales.title_HCCV" },
+    { "uuid": "qhzqqrj7", "anchor": "lpkttsdt", "href": "routes.qhzqqrj7", "id": "DNTL6", "innerHtml": "locales.title_DNTL6", "lang": "vi", "target": "_self", "title": "locales.title_DNTL6" },
+    { "uuid": "rxq053y5", "anchor": "tt_lpkttsdt", "href": "routes.rxq053y5", "id": "TCVN2", "innerHtml": "locales.title_TCVN2", "lang": "vi", "target": "_self", "title": "locales.title_TCVN2" },
+    { "uuid": "gabpltxp", "anchor": "69.1", "href": "routes.gabpltxp", "id": "ANZDQ", "innerHtml": "locales.title_ANZDQ", "lang": "ja", "target": "_self", "title": "locales.title_ANZDQ" },
+    { "uuid": "z9ga4u4o", "anchor": "30.2", "href": "routes.z9ga4u4o", "id": "CMVC", "innerHtml": "locales.title_CMVC", "lang": "en", "target": "_self", "title": "locales.title_CMVC" },
+    { "uuid": "1z25zkjb", "anchor": "8-紹-30", "href": "routes.1z25zkjb", "id": "ANMHDQYJ", "innerHtml": "locales.title_ANMHDQYJ", "lang": "ja", "target": "_self", "title": "locales.title_ANMHDQYJ" }
+  ]
+}
